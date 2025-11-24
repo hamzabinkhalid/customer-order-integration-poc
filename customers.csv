@@ -1,0 +1,11 @@
+customer_id,firstname,surname,email,address,zip_code,region,status
+1,Troy,Suarez,lorem@hotmail.couk,"Ap #360-3538 Montes, Ave",224574,Carinthia,active
+2,Sarah,Hicks,lacus.mauris@outlook.com,Ap #744-7738 Luctus Road,861872,Queensland,active
+3,Melvin,Herring,enim.sed.nulla@google.edu,210-3191 Dignissim Street,2569,New South Wales,active
+4,Vanna,Galloway,eu.erat@hotmail.org,743-3798 Tortor. Ave,83731,Sucre,active
+5,Stephen,Nelson,vulputate.posuere@google.ca,2610 Mattis St.,1382-5729,Tabasco,active
+6,Bree,Wise,pellentesque.tincidunt@hotmail.couk,453-8143 Neque. Rd.,694721,Extremadura,active
+7,Ignacia,Hurley,et.magnis@yahoo.org,7222 Ac Street,J35 0FZ,British Columbia,active
+8,Mariko,Buckner,lectus.pede.et@outlook.couk,Ap #971-2991 Mi St.,14553-84154,Cajamarca,active
+9,Hyatt,Mendez,neque.sed@protonmail.org,861-6476 Vitae Ave,57712,Małopolskie,archived
+10,Raymond,Kirby,etiam.gravida@yahoo.net,Ap #406-9771 Vel Street,487037,Balochistan,archived
