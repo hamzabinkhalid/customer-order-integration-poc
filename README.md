@@ -67,7 +67,7 @@ List all customers with their orders. Supports optional status filtering.
 
 **Example:**
 ```bash
-curl http://localhost:8000/customers?status=active
+curl 'http://localhost:8000/customers?status=active'
 ```
 
 ### GET /customers/{customer_id}
@@ -76,7 +76,7 @@ Retrieve a single customer by ID with their order history.
 
 **Example:**
 ```bash
-curl http://localhost:8000/customers/1
+curl 'http://localhost:8000/customers/1'
 ```
 
 ### POST /orders
@@ -94,8 +94,8 @@ Create a new order for an existing customer.
 
 **Example:**
 ```bash
-curl -X POST http://localhost:8000/orders \
-  -H "Content-Type: application/json" \
+curl -X POST 'http://localhost:8000/orders' \
+  -H 'Content-Type: application/json' \
   -d '{"date": "2024-01-23", "customer_id": 1, "amount": 99.99}'
 ```
 
